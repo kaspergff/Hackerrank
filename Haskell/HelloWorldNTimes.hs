@@ -1,0 +1,1 @@
+ntimes n = mapM_ putStrLn $ replicate n "Hello World"
